@@ -1,6 +1,6 @@
 ---
 title: Tableau des runes
-parent: Forgemagie de caractéristiques
+has_children: true
 nav_order: 1
 ---
 
