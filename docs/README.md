@@ -22,4 +22,4 @@ Nous allons nous intéresser au fonctionnement de ces règles, ainsi que comment
 
 ## Contribuer
 
-N'hésitez pas à me contacter si vous voyez des modifications à effectuer, ou à contribuer directement en soumettant une Pull Request sur le [repo GitHub de ce guide](https://github.com/Protectator/dofus-pages).
+N'hésitez pas à me [contacter](https://twitter.com/Protectator) si vous voyez des modifications à effectuer, ou à contribuer directement en soumettant une Pull Request sur le [repo GitHub de ce guide](https://github.com/Protectator/dofus-pages).
